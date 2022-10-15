@@ -14,7 +14,7 @@ a{
 }
 @font-face{
     font-family: logoFont;
-    src: url(fonts/JOKERMAN.TTF)
+    src: url(https://github.com/BofaMpama/portfolio-website/blob/main/fonts/JOKERMAN.TTF)
 }
 body::-webkit-scrollbar{
     border-radius: 30px;
